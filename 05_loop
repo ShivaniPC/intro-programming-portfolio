@@ -1,6 +1,6 @@
 05_loops/do_while.md
 <br>
-## 1. Concept in Your Own Words
+## 1. Concept in  Own Words
 <br>
 A do-while loop is used to repeat code multiple times. The loop will always run at least one time before checking the condition. After running once, it checks if the condition is true. If it is true, the loop continues. If it is false, the loop stops. The execution starts inside the loop first, then goes to the condition. This is useful when we want the code to run at least once no matter what.
 <br>
@@ -14,5 +14,20 @@ do
     Console.WriteLine(i);
     i++;
 } while (i < 5);
+3. Eureka Exercise / Moment
+
+previously, I thought do-while was the same as while. I didn’t understand why we needed it. During a class and i can say with  the time when i used it again and again in my assignments to solve them, so i realised that in while loop  the condition is checked first , if the codition is false at the start ,the loop body may nat execute at all. for do while condition is checked after execting the loop body 
+.the loop body executes at least once ,even if the condition is false.the 
+
+4. Common Beginner Mistake.<br>
+
+I forgot to put the semicolon after the while condition.  or sometime i wrote the while loop befor the brackets so it showed me the error This caused an error in my code.
+
+5. Research References.<br>
+
+ Professor taught us from zero and also provided Class notes and material which healped me  alot to understand better and easliy .
+ I will not lying , most of the time i  Used ChatGPT, Co- Pilot, google to understand the difference basic concept with an example .<br>
+
 05_loops/nested_loops.md
+
 05_loops/nested_loops.md
