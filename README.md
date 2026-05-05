@@ -10,6 +10,8 @@ This is my Git repository
 <br>
 04_switch.md
 <br>
+05_loop/
+<br>
 06_arrays.md
 <br>
 07_2d_arrays.md
