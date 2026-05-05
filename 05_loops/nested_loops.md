@@ -34,5 +34,7 @@ I forgot to update the variable inside the while loop. This caused an infinite l
 
 5. Research References
  <br>
+  Professor taught us from zero and also provided Class notes and material which healped me  alot to understand better and easliy .
+ I will not lying , most of the time i  Used ChatGPT, Co- Pilot, google to understand the difference basic concept with an example .<br>
 
 
