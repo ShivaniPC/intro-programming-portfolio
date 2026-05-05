@@ -1,3 +1,18 @@
 05_loops/do_while.md
+<br>
+## 1. Concept in Your Own Words
+<br>
+A do-while loop is used to repeat code multiple times. The loop will always run at least one time before checking the condition. After running once, it checks if the condition is true. If it is true, the loop continues. If it is false, the loop stops. The execution starts inside the loop first, then goes to the condition. This is useful when we want the code to run at least once no matter what.
+<br>
+## 2. Key C# Syntax
+<br>
+```csharp
+int i = 0;
+
+do
+{
+    Console.WriteLine(i);
+    i++;
+} while (i < 5);
 05_loops/nested_loops.md
 05_loops/nested_loops.md
