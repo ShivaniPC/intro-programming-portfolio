@@ -1,0 +1,33 @@
+06_array.md
+<br>
+array: A data structure that stores multiple values of the same type in a single variable
+we can say ,array = a list of values stored together.
+An array is used when we need to store multiple values of the 
+same type in one variable instead of creating many separate variables.
+<br>
+2. Key C# Syntax
+<br>
+int[] numbers = {10, 20, 30, 40};
+
+Console.WriteLine(numbers[0]); // first element
+
+for (int i = 0; i < numbers.Length; i++)
+{
+    Console.WriteLine(numbers[i]); // loop through array
+}
+<br>
+int[] = array of integers
+numbers[0] = index access (first element)
+Length = size of array
+<br>
+3. Eureka Exercise / Moment
+<br>
+firstly i didnot understand the concept of array what
+we have to do and how we can store multiple value in one arrry
+<br>
+4. Common Beginner Mistake
+<br>
+A common mistake is trying to access an index that doesn’t exist (like going past the array length).
+This happens because beginners forget that array indexes start at 0 and end at Length - 1,
+which can cause runtime errors.
+
