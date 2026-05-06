@@ -1,0 +1,31 @@
+08_structure.md
+A struct is used to store multiple related pieces of data under one name. 
+Unlike arrays, which store only one type of data, a struct can store different data types together,
+such as integers, strings, and booleans. It helps organize data in a cleaner way,
+<br>
+2. Key C# Syntax
+<br>
+struct Student
+{
+    public string name;
+    public int age;
+}
+
+Student s1;
+s1.name = "Alex";
+s1.age = 20;
+
+Console.WriteLine(s1.name);
+<br>
+3. Eureka Exercise / Moment
+<br>
+At first, I didn’t understand why we needed structs when we already had variables. I was confused about how they were different from arrays.
+What made it click was realizing that structs can store different types of data together
+<br>
+4. Common Beginner Mistake
+<br>
+A common mistake is forgetting to create an instance of the struct before using it. 
+This happens because beginners think defining the struct automatically creates usable variables, but you must create an object first.
+<br>
+5. Research References
+searched on google ,watched videos ,professor guidence,and class assignments or notes
