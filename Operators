@@ -1,0 +1,33 @@
+02_Operators.md
+<br>
+Operator: A symbol that tells the program to perform an action on values or variables
+examples:
++ → adds numbers
+- → subtracts
+* → multiplies
+/ → divides
+== → checks if two values are equal
+> → checks if one value is greater than another
+<br>
+2. Key C# Syntax
+<br>
+int a = 10;
+int b = 5;
+
+int sum = a + b;        // addition
+int diff = a - b;       // subtraction
+bool isEqual = (a == b); // comparison
+<br>
++, -, *, / = arithmetic operators
+==, !=, >, < = comparison operators
+operands = the values being used (a, b)
+result = the value after the operation
+<br>
+3. Eureka Exercise / Moment
+ sometime i cofused with these (= assigns a value, while == checks) 
+if two values are equal. After practicing with simple comparisons, it finally made sense.
+<br>
+4. Common Beginner Mistake
+
+A common mistake is using = instead of == in a condition. This happens because beginners think both
+mean “equals,” but they do different things
