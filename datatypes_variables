@@ -1,1 +1,31 @@
+01_Datatypes_Variables.md
+<br>
 
+Data type: The kind of data a variable can store (like numbers, text, or true/false).
+<br>
+Variable: A named place in memory used to store a value that can change while the program runs.
+<br>
+
+int age = 20;          // integer variable
+double price = 9.99;   // decimal number
+string name = "Alex";  // text
+bool isStudent = true; // true/false
+<br>
+int, double, string, bool = data types
+variable name = identifier
+= = assignment operator
+value = data stored in the variable
+Eureka Exercise / Moment
+<br>
+3. Eureka Exercise / Moment<br>
+At first, I was confused about why I couldn’t put a decimal number into an int. 
+i was cofused what is string ,char, bool ,double .where i have  to use. But with time i understood more .
+<br>
+4. Common Beginner Mistake
+
+A common mistake I made was assigning the wrong type of value to a variable, like putting "25" (a string) into an int.
+or some time i put int instead of float.
+<br>
+5. Research References
+
+Class notes, assignments that proffessor used to give us , and youtube videos were used to help understand .
