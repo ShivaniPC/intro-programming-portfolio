@@ -1,1 +1,28 @@
+ o3_if_statement.md
+<br>
+If statement: A control structure that checks a condition and runs a block of code only if that condition is true.
+<br.
+If statement = runs code only when something is true
 
+2. Key C# Syntax
+<br>
+int age = 18;
+
+if (age >= 18) // condition
+{
+    Console.WriteLine("Adult"); // runs if true
+}
+else
+{
+    Console.WriteLine("Minor"); // runs if false
+}
+<br>
+3. Eureka Exercise / Moment
+<br>
+I was  confused about how the condition worked. What helped me understand was stepping through the code and seeing that the program checks the condition first and only runs one block depending on whether 
+it’s true or false.
+<br>
+4. Common Beginner Mistake
+<br>
+A common mistake is forgetting to use == when comparing values and using = instead. This happens because they look similar, 
+but = assigns a value and == checks equality, which can cause errors.
