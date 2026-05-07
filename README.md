@@ -25,7 +25,7 @@ README.md
 Name - Shivani Rana
   <br>
   
-i feel all concept interesting and chalenging for me as i did not any experience befor it .
+i feel all concept interesting and chalenging for me as i did not  have any experience befor it .
 but i tried to do . But i felt the for loop , structure and if  else statement were interesting .
 <br>
 
