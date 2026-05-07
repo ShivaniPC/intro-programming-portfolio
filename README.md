@@ -21,3 +21,14 @@ This is my Git repository
 09_structures.md
 <br>
 README.md
+<b>
+Name - Shivani Rana
+<br>
+i feel all concept interesting and chalenging for me as i did not any experience befor it .
+but i tried to do . But i felt the for loop , structure and if  else statement were interesting .
+<br>
+the concept  that i felt difficult and chalenging befor exam were array,and neasted loop . i  always  used to confuse during iteration . 
+<br>
+still i donot more about the git hub. But i learnt it in my computer tool class with professor Kaveh Bakhtiyari.He  taught  use about it and healped to create account.after that to complete this project i saw the you tubes video for better understand the basic concept of git hub.
+  <br>
+[ you tube : https://www.youtube.com/watch?v=Ez8F0nW6S-w&t=802s ]
